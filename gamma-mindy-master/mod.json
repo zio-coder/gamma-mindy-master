@@ -1,0 +1,11 @@
+{
+  "name": "gammamindy",
+  "displayName": "GammaMindy",
+  "author": "destroying_with_duo[]",
+  "description": "hahahaahah",
+  "version": "0.01",
+  "main": "gammamindy.GammaMindy",
+  "minGameVersion": "135",
+  "dependencies": [],
+  "hidden": false
+}
